@@ -12,10 +12,12 @@ I'm Fernando, currently studying how to code!
 
           
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandokeijo&show_icons=true&theme=radical)
+ <p>
+  <img src="https://github-readme-stats.vercel.app/api?username=fernandokeijo&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandokeijo&layout=compact&langs_count=16&theme=radical" alt="Top Langs" height="165"/>
+</p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandokeijo&layout=compact&langs_count=16&theme=radical)
 
 
 <div style="display: inline_block"><br>
@@ -40,5 +42,7 @@ I'm Fernando, currently studying how to code!
   <a href = "mailto:fernandokdomingos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fernandokdomingos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
           
 
