@@ -13,7 +13,7 @@ I'm Fernando, currently studying how to code!
           
 
  <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=fernandokeijo&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandokeijo&layout=compact&langs_count=16&theme=radical" alt="Top Langs" height="165"/>
 </p>
 
