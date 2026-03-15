@@ -3,8 +3,8 @@
 
 Currently transitioning into tech while studying software development.
 
-- 🧠 Working on Harvard's **CS50x** final project
-- 🐍 Learning **Flask**
+- 🧠 Just finished Harvard's **CS50x** final project
+- 🐍 Learning **PANDAS**
 - 👨‍🏫 English teacher → aspiring developer
 - 🌎 Based in Brazil
 - 🔹 Pronouns: he/him
