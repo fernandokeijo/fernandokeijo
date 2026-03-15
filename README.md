@@ -14,14 +14,20 @@ Currently transitioning into tech while studying software development.
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,c,git,github,linux,mysql,react&perline=6" />
+  <a href="https://github.com/fernandokeijo">
+    <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fernandokeijo&show_icons=true&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 ---
 
 ## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=fernandokeijo&layout=compact&theme=tokyonight)
+<p>
+  <a href="https://github.com/fernandokeijo">
+    <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fernandokeijo&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
